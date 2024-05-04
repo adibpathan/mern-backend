@@ -1,0 +1,14 @@
+{
+  "name": "mern-backend",
+  "version": "1.0.0",
+  "description": "how to deploy a backend code in production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adib Pathan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
